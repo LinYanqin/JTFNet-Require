@@ -1,5 +1,0 @@
-tensorflow-gpu==1.14.0
-numpy==1.19.5
-scipy==1.5.4
-nmrglue==0.7
-python==3.6.3
